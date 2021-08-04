@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "styles.css",
-	"sourceRoot": "/home/aa/0-attachup/ubi/dom/shortcuts.news/git/shortcuts.hugo.source",
+	"sourceRoot": "/home/runner/work/shortcuts.hugo.source/shortcuts.hugo.source",
 	"sources": [
 		"themes/newsroom/assets/sass/main.sass",
 		"themes/newsroom/assets/sass/_variables.sass",
